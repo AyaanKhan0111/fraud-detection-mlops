@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+mlflow
+fastapi
+uvicorn
+joblib
+matplotlib
+seaborn
+prometheus-client
+requests
+shap
