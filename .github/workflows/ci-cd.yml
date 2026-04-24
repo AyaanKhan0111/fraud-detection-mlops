@@ -15,7 +15,7 @@ permissions:
 
 env:
   MLFLOW_TRACKING_URI: sqlite:///mlflow.db
-  RECALL_THRESHOLD: "0.85"
+  RECALL_THRESHOLD: "0.2"
   IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/fraud-api:latest
 
 jobs:
